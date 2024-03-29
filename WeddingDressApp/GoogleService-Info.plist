@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCM70fvXV3JcEE5TDi9zBye8uUXPtZo0Fo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>699547792355</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>edu.rit.kr9346.WeddingDressApp</string>
+	<key>PROJECT_ID</key>
+	<string>weddingdressapp-6c4eb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>weddingdressapp-6c4eb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:699547792355:ios:d9f73bb4a86933e119e6d6</string>
+</dict>
+</plist>
